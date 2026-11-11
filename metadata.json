@@ -1,0 +1,6 @@
+{
+  "name": "JANASEVA – Public Grievance & Social Problem Solving Platform",
+  "description": "Comprehensive public grievance redressal and civic problem solving system for Karnataka with intelligent department routing, officer tracking, duplicate detection, and citizen resolution verification.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
